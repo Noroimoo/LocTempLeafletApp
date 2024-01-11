@@ -13,5 +13,5 @@
 В папке `src/components/LocomotiveMap.vue`. Маршруты находятся в `public` в фаилах location.json. temperatures.json. В задании зум на локацию локомотивов хардкодед.
 
 ## Что отображается?
-Карта `https://www.openstreetmap.org/`. Линии маршрутов
+Карта `https://www.openstreetmap.org/`. Линии маршрутов и точки с таймстампами и температурой в то время.
 
